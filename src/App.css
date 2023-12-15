@@ -21,6 +21,9 @@ body {
 .space-between {
   justify-content: space-between;
 }
+.align-center{
+  align-items: center;
+}
 
 .mr-4 {
   margin-right: 8px;
@@ -201,7 +204,7 @@ body {
 
 @media (max-width: 767px) {
   .container {
-    width: 360px;
+    width: 400px;
   }
 }
 

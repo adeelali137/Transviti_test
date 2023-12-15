@@ -14,15 +14,19 @@ export default function Footer() {
         </div>
         <div className="social_links">
           <div className="d-flex">
-            <a href="#">FaceBook</a>
+            <a href="#">Facebook</a>
             <a href="#">Linkedin</a>
             <a href="#">Instagram</a>
             <a href="#">Youtube</a>
           </div>
         </div>
         <div className="halal_copyRight">
-          <div className="d-flex">
+          <div className="d-flex space-between align-center">
             <p>Halal Network &copy; 2023. All right reserved</p>
+            <div className="user-agreement">
+              <a href="#">User Agreement</a>
+              <a href="#">Privacy Policy</a>
+            </div>
           </div>
         </div>
       </div>
