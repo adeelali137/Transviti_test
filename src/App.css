@@ -250,7 +250,8 @@ body {
     padding: 10px 20px;
   }
 
-
+  .footer .halal_copyRight{padding: 10px; text-align: center;}
+  .footer .halal_copyRight .d-flex{display: block;}
   .footer .social_links .d-flex,
   .footer .coprights_links .d-flex {
     display: grid;
